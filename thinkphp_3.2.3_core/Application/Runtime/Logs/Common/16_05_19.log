@@ -1,0 +1,12 @@
+[ 2016-05-19T09:33:40+08:00 ] ::1 /thinkphp_3.2.3_core/index.php/public/dokuwiki
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-19T09:34:04+08:00 ] ::1 /thinkphp_3.2.3_core/index.php/Public/dokuwiki
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
