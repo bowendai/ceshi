@@ -1,0 +1,34 @@
+
+----
+À<dokuteaser>
+==  定制DokuWiki ==
+123
+我们支持各种层次上的定制。既可以从管理界面轻松配置，下载模板和扩展，也可以开发您自己的扩展。
+
+  * [[zh:config|配置]]
+  * [[zh:plugins|插件]]
+  * [[zh:template|模板]] (或称 皮肤/主题)
+  * [[:tips|技巧与诀窍]]
+  * [[start:start|你好]]
+  * [[start|你好]]
+
+[[:development|阅读开发手册]]
+
+</dokuteaser>
+
+<dokuteaser>
+==== 我们的社区 ====
+开源的一部分是通过参与来回馈社区。这可以通过多种选择来实现：
+
+
+
+  * 分享你的经验
+  * 修缮维基
+  * 帮助插件作者写文档
+  * [[http://translate.dokuwiki.org/|帮助翻译Dokuwiki的界面]]
+  * [[https://github.com/splitbrain/dokuwiki/issues|提交bug与想要的特性]]
+  * [[http://forum.dokuwiki.org|在论坛回答问题]]
+  * 在各种社区中帮助新手
+
+[[:teams:getting_involved|参与]]
+</dokuteaser>
