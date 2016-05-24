@@ -20,9 +20,13 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./Application/');
 
+if(!defined('DOKU_INC')) define('DOKU_INC', dirname(__FILE__).'/public/dokuwiki/');
+
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
 
-require './Public/dokuwiki/doku.php';
+require_once './Public/dokuwiki/doku.php';
+
+//require_once DOKU_INC.'inc/template.php';
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单

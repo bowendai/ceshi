@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>控制台 - Bootstrap后台管理系统模版Ace下载</title>
+		<title>WIKI</title>
 		<meta name="keywords" content="Bootstrap模版,Bootstrap模版下载,Bootstrap教程,Bootstrap中文" />
 		<meta name="description" content="站长素材提供Bootstrap模版,Bootstrap教程,Bootstrap中文翻译等相关Bootstrap插件下载" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -57,7 +57,8 @@
 					<a href="#" class="navbar-brand">
 						<small>
 							<i class="icon-leaf"></i>
-							ACE后台管理系统
+							<!--<img src="/thinkphp_3.2.3_core_extend/Public/assets/images/LOGO.jpg" />-->
+								&nbsp;WIKI知识库 Demo
 						</small>
 					</a><!-- /.brand -->
 				</div><!-- /.navbar-header -->
@@ -278,7 +279,7 @@
 								<img class="nav-user-photo" src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/user.jpg" alt="Jason's Photo" />
 								<span class="user-info">
 									<small>欢迎光临,</small>
-									Jason
+									wiki
 								</span>
 
 								<i class="icon-caret-down"></i>
@@ -530,8 +531,74 @@
 					
 	
 					
+	
 	<div>
-		welcome
+		<link href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/jquery-ui-1.10.3.custom.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/chosen.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/datepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap-timepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/daterangepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/colorpicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-skins.min.css" />
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-extra.min.js"></script>
+		<div style="margin-left:15px;width:97%">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="col-sm-3">
+						<h2>welcome</h2>
+					</div>
+					<div class="col-sm-3">
+						<h2>here,</h2>
+					</div>
+					<div class="col-sm-3">
+						<h2>wiki</h2>
+					</div>
+					<div class="col-sm-3">
+						<h2>demo!</h2>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/typeahead-bs2.min.js"></script>
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/chosen.jquery.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/fuelux/fuelux.spinner.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-timepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/moment.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/daterangepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-colorpicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.knob.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.autosize.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.inputlimiter.1.3.1.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.maskedinput.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-tag.min.js"></script>
+
+		<!-- ace scripts -->
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
+		
+		<script>
+			
+		</script>
 	</div>
 	
 			
@@ -592,34 +659,15 @@
 		<!-- ace scripts -->
 
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
+		<!--<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>-->
 
 		<!-- inline scripts related to this page -->
 
 		<script type="text/javascript">
 			jQuery(function($) {
-				$(".submenu li").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-					$(this).addClass("active");
-				});
 				
-				$(".dropdown-toggle").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-				});
+				$("#sidebar").removeClass("menu-min");
 				
-				$("#news").click(function(){
-					$("#sidebar li").removeClass("active");
-					
-					$("#sidebar li").removeClass("open");
-					$(".submenu").css({"display":"none"});
-					
-					$(this).addClass("active");
-			
-				});	
 				
 				/**菜单点击效果**/
 				var s_url=window.location.pathname; 
@@ -628,26 +676,30 @@
 					now_url=$("#side-menu li a").eq(i).attr("href");
 				
 					if(now_url == s_url){
-						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");//判断是不是业界动态，true为不是false是
+						//判断是不是业界动态，true为不是,false是
+						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");
 						
 						if(isNoNewsMenu==false){
 							$("#side-menu a").eq(i).parent().addClass("active");
 						}else{
+							$("#news").removeClass("active");
+							
 							$("#side-menu a").eq(i).parent().addClass("active");
-							//$("#side-menu a").eq(i).parent().parent().parent().addClass("active");
-							$("#side-menu a").eq(i).parent().parent().parent().addClass("open");
-						   // $("#side-menu a").eq(i).parent().parent().addClass("in");
+							$("#side-menu a").eq(i).parent().parent().parent().removeClass("open");
+							
 							$("#side-menu a").eq(i).parent().parent().parent().find(".submenu").css({"display":"block"});
+						
 						}
 						
 					}else{
 						$("#side-menu a").eq(i).parent().removeClass("active");
+						
 					}
 				}
 				
 			})
 				
 		</script>
-	<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+	
 </body>
 </html>

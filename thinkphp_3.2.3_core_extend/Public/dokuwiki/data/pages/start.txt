@@ -1,7 +1,7 @@
 ====== hello world! ======
 //这是斜体//
 
-代码 cq
+代码 cq1
 
 ''$conf['title']       = 'DokuWiki';''
 

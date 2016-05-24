@@ -1,0 +1,3402 @@
+[ 2016-05-23T10:22:12+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/autodesign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Autodesign
+
+[ 2016-05-23T10:22:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/home'autodesign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Home'autodesign
+
+[ 2016-05-23T11:21:27+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/Home/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-23T12:33:32+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T12:33:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=login&sectok=6fd6057ae78249e68ba34e3ff41e5833
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T12:34:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T12:34:15+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463985874
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T14:44:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463985874
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:17:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:17:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:17:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:17:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:15+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:15+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:18:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:19:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988054
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:20:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988054
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988054
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988054
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988085
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:21:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988085
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988342
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988342
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:25:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988644
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:45+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:45+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T15:30:45+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463988644
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990431
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990431
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:00:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990480
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990480
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990502
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:01:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990502
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:56+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990576
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:02:57+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990576
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:26+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:26+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:26+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990629
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:03:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990629
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990681
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990689
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990689
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990695
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:04:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990695
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990704
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:04+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990704
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:05:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:48+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990808
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:06:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990808
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:19+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990848
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990848
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990855
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:07:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990855
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:16+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990896
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:18+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463990896
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:08:53+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463991469
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:17:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463991469
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/css.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/js.php?t=dokuwiki&tseed=973edad7ca007e7f80cb96e9e6d5334a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463992043
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/license/button/cc-by-nc-sa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-html5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-css.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-php.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-donate.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/tpl/dokuwiki/images/button-dw.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:27:25+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/exe/indexer.php?id=start&1463992043
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-23T16:44:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+

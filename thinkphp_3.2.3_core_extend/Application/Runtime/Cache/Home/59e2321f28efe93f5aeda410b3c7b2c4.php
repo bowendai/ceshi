@@ -2,16 +2,16 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>控制台 - Bootstrap后台管理系统模版Ace下载</title>
+		<title>WIKI</title>
 		<meta name="keywords" content="Bootstrap模版,Bootstrap模版下载,Bootstrap教程,Bootstrap中文" />
 		<meta name="description" content="站长素材提供Bootstrap模版,Bootstrap教程,Bootstrap中文翻译等相关Bootstrap插件下载" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<!-- basic styles -->
-		<link href="/thinkphp_3.2.3_core_extend1/Public/assets/css/bootstrap.min.css" rel="stylesheet" />
-		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/font-awesome.min.css" />
+		<link href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/font-awesome.min.css" />
 
 		<!--[if IE 7]>
-		  <link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/font-awesome-ie7.min.css" />
+		  <link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/font-awesome-ie7.min.css" />
 		<![endif]-->
 
 		<!-- page specific plugin styles -->
@@ -22,25 +22,25 @@
 
 		<!-- ace styles -->
 
-		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/ace.min.css" />
-		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/ace-rtl.min.css" />
-		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/ace-skins.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-skins.min.css" />
 
 		<!--[if lte IE 8]>
-		  <link rel="stylesheet" href="/thinkphp_3.2.3_core_extend1/Public/assets/css/ace-ie.min.css" />
+		  <link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-ie.min.css" />
 		<![endif]-->
 
 		<!-- inline styles related to this page -->
 
 		<!-- ace settings handler -->
 
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/ace-extra.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-extra.min.js"></script>
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
 		<!--[if lt IE 9]>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/html5shiv.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/respond.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/html5shiv.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/respond.min.js"></script>
 		<![endif]-->
 	</head>
 
@@ -57,7 +57,8 @@
 					<a href="#" class="navbar-brand">
 						<small>
 							<i class="icon-leaf"></i>
-							ACE后台管理系统
+							<!--<img src="/thinkphp_3.2.3_core_extend/Public/assets/images/LOGO.jpg" />-->
+								&nbsp;WIKI知识库 Demo
 						</small>
 					</a><!-- /.brand -->
 				</div><!-- /.navbar-header -->
@@ -215,7 +216,7 @@
 
 								<li>
 									<a href="#">
-										<img src="/thinkphp_3.2.3_core_extend1/Public/assets/avatars/avatar.png" class="msg-photo" alt="Alex's Avatar" />
+										<img src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/avatar.png" class="msg-photo" alt="Alex's Avatar" />
 										<span class="msg-body">
 											<span class="msg-title">
 												<span class="blue">Alex:</span>
@@ -232,7 +233,7 @@
 
 								<li>
 									<a href="#">
-										<img src="/thinkphp_3.2.3_core_extend1/Public/assets/avatars/avatar3.png" class="msg-photo" alt="Susan's Avatar" />
+										<img src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/avatar3.png" class="msg-photo" alt="Susan's Avatar" />
 										<span class="msg-body">
 											<span class="msg-title">
 												<span class="blue">Susan:</span>
@@ -249,7 +250,7 @@
 
 								<li>
 									<a href="#">
-										<img src="/thinkphp_3.2.3_core_extend1/Public/assets/avatars/avatar4.png" class="msg-photo" alt="Bob's Avatar" />
+										<img src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/avatar4.png" class="msg-photo" alt="Bob's Avatar" />
 										<span class="msg-body">
 											<span class="msg-title">
 												<span class="blue">Bob:</span>
@@ -275,10 +276,10 @@
 
 						<li class="light-blue">
 							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
-								<img class="nav-user-photo" src="/thinkphp_3.2.3_core_extend1/Public/assets/avatars/user.jpg" alt="Jason's Photo" />
+								<img class="nav-user-photo" src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/user.jpg" alt="Jason's Photo" />
 								<span class="user-info">
 									<small>欢迎光临,</small>
-									Jason
+									wiki
 								</span>
 
 								<i class="icon-caret-down"></i>
@@ -363,7 +364,7 @@
 
 					<ul class="nav nav-list" id="side-menu">
 						<li id="news">
-							<a href="/thinkphp_3.2.3_core_extend1/index.php/Home/news/index">
+							<a href="/thinkphp_3.2.3_core_extend/index.php/Home/news/index">
 								<i class="icon-dashboard"></i>
 								<span class="menu-text"> 业界动态 </span>
 							</a>
@@ -379,14 +380,14 @@
 
 							<ul class="submenu">
 								<li>
-									<a href="/thinkphp_3.2.3_core_extend1/index.php/Home/autoframe/index" >
+									<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autoframe/index" >
 										<i class="icon-double-angle-right"></i>
 										自动化框架
 									</a>
 								</li>
 
 								<li>
-									<a href="/thinkphp_3.2.3_core_extend1/index.php/Home/autodesign/index">
+									<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index">
 										<i class="icon-double-angle-right"></i>
 										自动化设计
 									</a>
@@ -549,7 +550,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-home home-icon"></i>
-								<a href="/thinkphp_3.2.3_core_extend1/Home/Index/right">Home</a>
+								<a href="/thinkphp_3.2.3_core_extend/Home/Index/right">Home</a>
 							</li>
 
 							<li>
@@ -1802,48 +1803,48 @@
 		<!--[if !IE]> -->
 
 		<script type="text/javascript">
-			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
 		</script>
 
 		<!-- <![endif]-->
 
 		<!--[if IE]>
 <script type="text/javascript">
- window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-1.10.2.min.js'>"+"<"+"/script>");
+ window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-1.10.2.min.js'>"+"<"+"/script>");
 </script>
 <![endif]-->
 
 		<script type="text/javascript">
-			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
 		</script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/bootstrap.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/typeahead-bs2.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/typeahead-bs2.min.js"></script>
 
 		<!-- page specific plugin scripts -->
 
 		<!--[if lte IE 8]>
-		  <script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/excanvas.min.js"></script>
+		  <script src="/thinkphp_3.2.3_core_extend/Public/assets/js/excanvas.min.js"></script>
 		<![endif]-->
 
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/chosen.jquery.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/fuelux/fuelux.spinner.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/date-time/bootstrap-datepicker.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/date-time/bootstrap-timepicker.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/date-time/moment.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/date-time/daterangepicker.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/bootstrap-colorpicker.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.knob.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.autosize.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.inputlimiter.1.3.1.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.maskedinput.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/bootstrap-tag.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/chosen.jquery.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/fuelux/fuelux.spinner.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-timepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/moment.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/daterangepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-colorpicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.knob.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.autosize.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.inputlimiter.1.3.1.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.maskedinput.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-tag.min.js"></script>
 
 		<!-- ace scripts -->
 
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/ace-elements.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/ace.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
 
 		<!-- inline scripts related to this page -->
 
@@ -1876,69 +1877,50 @@
 		<!--[if !IE]> -->
 
 		<script type="text/javascript">
-			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"script>");
+			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"script>");
 		</script>
 
 		<!-- <![endif]-->
 
 		<!--[if IE]>
 <script type="text/javascript">
- window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-1.10.2.min.js'>"+"<"+"script>");
+ window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-1.10.2.min.js'>"+"<"+"script>");
 </script>
 <![endif]-->
 
 		<script type="text/javascript">
-			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"script>");
+			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"script>");
 		</script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/bootstrap.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/typeahead-bs2.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/typeahead-bs2.min.js"></script>
 
 		<!-- page specific plugin scripts -->
 
 		<!--[if lte IE 8]>
-		  <script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/excanvas.min.js"></script>
+		  <script src="/thinkphp_3.2.3_core_extend/Public/assets/js/excanvas.min.js"></script>
 		<![endif]-->
 
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.slimscroll.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.easy-pie-chart.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/jquery.sparkline.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/flot/jquery.flot.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/flot/jquery.flot.pie.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/flot/jquery.flot.resize.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.slimscroll.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.easy-pie-chart.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.sparkline.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/flot/jquery.flot.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/flot/jquery.flot.pie.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/flot/jquery.flot.resize.min.js"></script>
 
 		<!-- ace scripts -->
 
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/ace-elements.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend1/Public/assets/js/ace.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
+		<!--<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>-->
 
 		<!-- inline scripts related to this page -->
 
 		<script type="text/javascript">
 			jQuery(function($) {
-				$(".submenu li").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-					$(this).addClass("active");
-				});
 				
-				$(".dropdown-toggle").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-				});
+				$("#sidebar").removeClass("menu-min");
 				
-				$("#news").click(function(){
-					$("#sidebar li").removeClass("active");
-					
-					$("#sidebar li").removeClass("open");
-					$(".submenu").css({"display":"none"});
-					
-					$(this).addClass("active");
-			
-				});	
 				
 				/**菜单点击效果**/
 				var s_url=window.location.pathname; 
@@ -1947,26 +1929,30 @@
 					now_url=$("#side-menu li a").eq(i).attr("href");
 				
 					if(now_url == s_url){
-						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");//判断是不是业界动态，true为不是false是
+						//判断是不是业界动态，true为不是,false是
+						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");
 						
 						if(isNoNewsMenu==false){
 							$("#side-menu a").eq(i).parent().addClass("active");
 						}else{
+							$("#news").removeClass("active");
+							
 							$("#side-menu a").eq(i).parent().addClass("active");
-							//$("#side-menu a").eq(i).parent().parent().parent().addClass("active");
-							$("#side-menu a").eq(i).parent().parent().parent().addClass("open");
-						   // $("#side-menu a").eq(i).parent().parent().addClass("in");
+							$("#side-menu a").eq(i).parent().parent().parent().removeClass("open");
+							
 							$("#side-menu a").eq(i).parent().parent().parent().find(".submenu").css({"display":"block"});
+						
 						}
 						
 					}else{
 						$("#side-menu a").eq(i).parent().removeClass("active");
+						
 					}
 				}
 				
 			})
 				
 		</script>
-	<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+	
 </body>
 </html>

@@ -192,7 +192,10 @@ function act_dispatch(){
     $headers = array();
     $headers[] = 'Content-Type: text/html; charset=utf-8';
     trigger_event('ACTION_HEADERS_SEND',$headers,'act_sendheaders');
-
+	
+//var_dump($ACT);
+//var_dump($ID);
+//var_dump($INPUT);
     include(template('main.php'));
     // output for the commands is now handled in inc/templates.php
     // in function tpl_content()

@@ -121,7 +121,7 @@ trigger_event('DOKUWIKI_STARTED', $tmp);
 session_write_close();
 
 //do the work (picks up what to do from global env)
-act_dispatch();
+//act_dispatch();
 
 $tmp = array(); // No event data
 trigger_event('DOKUWIKI_DONE', $tmp);

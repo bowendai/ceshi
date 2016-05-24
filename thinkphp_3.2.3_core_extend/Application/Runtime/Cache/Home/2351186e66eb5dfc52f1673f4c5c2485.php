@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>控制台 - Bootstrap后台管理系统模版Ace下载</title>
+		<title>WIKI</title>
 		<meta name="keywords" content="Bootstrap模版,Bootstrap模版下载,Bootstrap教程,Bootstrap中文" />
 		<meta name="description" content="站长素材提供Bootstrap模版,Bootstrap教程,Bootstrap中文翻译等相关Bootstrap插件下载" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -57,7 +57,8 @@
 					<a href="#" class="navbar-brand">
 						<small>
 							<i class="icon-leaf"></i>
-							ACE后台管理系统
+							<!--<img src="/thinkphp_3.2.3_core_extend/Public/assets/images/LOGO.jpg" />-->
+								&nbsp;WIKI知识库 Demo
 						</small>
 					</a><!-- /.brand -->
 				</div><!-- /.navbar-header -->
@@ -278,7 +279,7 @@
 								<img class="nav-user-photo" src="/thinkphp_3.2.3_core_extend/Public/assets/avatars/user.jpg" alt="Jason's Photo" />
 								<span class="user-info">
 									<small>欢迎光临,</small>
-									Jason
+									wiki
 								</span>
 
 								<i class="icon-caret-down"></i>
@@ -530,78 +531,34 @@
 					
 	
 					
-	<div>
-		
 	
-		<div class="main-container" id="main-container">
-			<script type="text/javascript">
-				try{ace.settings.check('main-container' , 'fixed')}catch(e){}
-			</script>
+	<div>
+		<link href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/jquery-ui-1.10.3.custom.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/chosen.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/datepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap-timepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/daterangepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/colorpicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-skins.min.css" />
 
-			<div class="main-container-inner">
-				<!--<a class="menu-toggler" id="menu-toggler" href="#">
-					<span class="menu-text"></span>
-				</a>-->
-
-				<div class="main-content1">
-					<div class="breadcrumbs" id="breadcrumbs">
-						<script type="text/javascript">
-							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
-						</script>
-
-						<ul class="breadcrumb">
-							<li>
-								<i class="icon-home home-icon"></i>
-								<a href="/thinkphp_3.2.3_core_extend/Home/Index/right">Home</a>
-							</li>
-
-							<!--<li>
-								<a href="#">Forms</a>
-							</li>-->
-							<li class="active">自动化设计</li>
-						</ul><!-- .breadcrumb -->
-
-						<div class="nav-search" id="nav-search">
-							<form class="form-search">
-								<span class="input-icon">
-									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
-									<i class="icon-search nav-search-icon"></i>
-								</span>
-							</form>
-						</div><!-- #nav-search -->
-					</div>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-extra.min.js"></script>
+			<div class="page-content">
+				<div class="col-xs-6">
+					<!--<div class="col-sm-3">
+						<h2>welcome</h2>
+					</div>-->
 					
-					<div class="page-content">
-						
-						<?php  for($i=0;$i<count($autoinfoArr);$i++){ $content = $autoinfoArr[$i]["content"]; $content = mb_strimwidth($content,0,300,"...","utf8"); ?>
-							<div class="row" style="height:10px">
-								<div class="col-xs-12">
-									<!-- PAGE CONTENT BEGINS -->
-									<h2 class="header smaller lighter blue">
-										<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=<?php echo ($autoinfoArr[$i]["id"]); ?>"><?php echo ($autoinfoArr[$i]["title"]); ?></a>
-										&nbsp;<small>创建时间:<?php echo ($autoinfoArr[$i]["create_time"]); ?></small>
-									</h2>
-								</div><!-- /.col -->
-							</div>
-							<div class="row" style="height:10px;">
-								<div class="col-xs-12">
-									<div>
-										<pre><font size=+1 face="宋体"><?php echo ($content); ?></font></pre>
-									</div>
-								</div>
-							</div>
-						<?php ;}?>
-						
-					</div><!-- /.page-content -->
-				</div><!-- /.main-content -->
-
-			</div><!-- /.main-container-inner -->
-
-			<!--<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
-				<i class="icon-double-angle-up icon-only bigger-110"></i>
-			</a>-->
-		</div><!-- /.main-container -->
-
+					<?php
+ require_once './Public/dokuwiki/doku.php'; act_dispatch(); ?>
+					
+				</div>
+			</div>
+	
+		
 		<script type="text/javascript">
 			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
 		</script>
@@ -633,21 +590,10 @@
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
 		
 		<script>
-			$(window).scroll(function(){
-				if($(window).scrollTop()>10){    //垂直滚动条钓offset 大于90时。
-					$("#btn-scroll-up").css({
-					   "display":"block",       //修改相关div样式
-				   });
-				   
-				}else{
-					$("#btn-scroll-up").css({
-						"display":"none",     //修改相关div样式
-					});
-				}
-			});
 			
 		</script>
-
+	</div>
+	
 			
 			</div><!-- /.main-container-inner -->
 
@@ -706,34 +652,15 @@
 		<!-- ace scripts -->
 
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
-		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
+		<!--<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>-->
 
 		<!-- inline scripts related to this page -->
 
 		<script type="text/javascript">
 			jQuery(function($) {
-				$(".submenu li").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-					$(this).addClass("active");
-				});
 				
-				$(".dropdown-toggle").click(function(){
-					
-					$("#sidebar li").removeClass("active");
-					
-				});
+				$("#sidebar").removeClass("menu-min");
 				
-				$("#news").click(function(){
-					$("#sidebar li").removeClass("active");
-					
-					$("#sidebar li").removeClass("open");
-					$(".submenu").css({"display":"none"});
-					
-					$(this).addClass("active");
-			
-				});	
 				
 				/**菜单点击效果**/
 				var s_url=window.location.pathname; 
@@ -742,26 +669,30 @@
 					now_url=$("#side-menu li a").eq(i).attr("href");
 				
 					if(now_url == s_url){
-						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");//判断是不是业界动态，true为不是false是
+						//判断是不是业界动态，true为不是,false是
+						var isNoNewsMenu = $("#side-menu a").eq(i).parent().parent().hasClass("submenu");
 						
 						if(isNoNewsMenu==false){
 							$("#side-menu a").eq(i).parent().addClass("active");
 						}else{
+							$("#news").removeClass("active");
+							
 							$("#side-menu a").eq(i).parent().addClass("active");
-							//$("#side-menu a").eq(i).parent().parent().parent().addClass("active");
-							$("#side-menu a").eq(i).parent().parent().parent().addClass("open");
-						   // $("#side-menu a").eq(i).parent().parent().addClass("in");
+							$("#side-menu a").eq(i).parent().parent().parent().removeClass("open");
+							
 							$("#side-menu a").eq(i).parent().parent().parent().find(".submenu").css({"display":"block"});
+						
 						}
 						
 					}else{
 						$("#side-menu a").eq(i).parent().removeClass("active");
+						
 					}
 				}
 				
 			})
 				
 		</script>
-	<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+	
 </body>
 </html>

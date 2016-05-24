@@ -7,7 +7,10 @@
  */
 
 if(!defined('DOKU_INC')) die('meh.');
-
+/*require_once DOKU_INC.'inc/confutils.php';
+require_once DOKU_INC.'inc/common.php';
+require_once DOKU_INC.'inc/JSON.php';
+require_once DOKU_INC.'inc/events.php';*/
 /**
  * Access a template file
  *
