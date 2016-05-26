@@ -18,7 +18,7 @@
 
 		<!-- fonts -->
 
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
+		<!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />-->
 
 		<!-- ace styles -->
 
@@ -45,6 +45,12 @@
 	</head>
 
 	<body>
+		
+		
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/all.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/feed.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/print.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/screen.css" />
 		
 		<div class="navbar navbar-default" id="navbar">
 			<script type="text/javascript">
@@ -588,6 +594,8 @@
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
 		
 		<script>
+			$("#sidebar").removeClass("menu-min");
+		
 			$(".breadcrumb").html('<li>	<i class="icon-home home-icon"></i> \
 								<a href="/thinkphp_3.2.3_core_extend/index.php">首页</a>\
 								<li class="active">业界动态</li>\
@@ -609,7 +617,7 @@
 
 		<!--[if !IE]> -->
 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
 
 		<!-- <![endif]-->
 
@@ -662,7 +670,7 @@
 		<script type="text/javascript">
 			jQuery(function($) {
 				
-				$("#sidebar").removeClass("menu-min");
+				//$("#sidebar").removeClass("menu-min");
 				
 				
 				/**菜单点击效果**/

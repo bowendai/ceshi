@@ -534,7 +534,7 @@ function html_revisions($first=0, $media_id = false){
         $form->addElement($date);
         $form->addElement(form_makeCloseTag('span'));
 
-        $form->addElement('<img src="'.DOKU_BASE.'lib/images/blank.gif" width="15" height="11" alt="" />');
+        $form->addElement('<img src="'./*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/images/blank.gif" width="15" height="11" alt="" />');
 
         if (!$media_id) $href = wl($id);
         else $href = media_managerURL(array('image' => $id, 'tab_details' => 'view'), '&');
@@ -597,7 +597,7 @@ function html_revisions($first=0, $media_id = false){
                             'name' => 'rev2[]',
                             'value' => $rev)));
         }else{
-            $form->addElement('<img src="'.DOKU_BASE.'lib/images/blank.gif" width="15" height="11" alt="" />');
+            $form->addElement('<img src="'./*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/images/blank.gif" width="15" height="11" alt="" />');
         }
 
         $form->addElement(form_makeOpenTag('span', array('class' => 'date')));
@@ -609,7 +609,7 @@ function html_revisions($first=0, $media_id = false){
             else $href = media_managerURL(array('image' => $id, 'rev' => $rev, 'mediado' => 'diff'), '&');
             $form->addElement(form_makeOpenTag('a', array('href' => $href, 'class' => 'diff_link')));
             $form->addElement(form_makeTag('img', array(
-                            'src'    => DOKU_BASE.'lib/images/diff.png',
+                            'src'    => /*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/images/diff.png',
                             'width'  => 15,
                             'height' => 11,
                             'title'  => $lang['diff'],
@@ -621,7 +621,7 @@ function html_revisions($first=0, $media_id = false){
             $form->addElement($display_name);
             $form->addElement(form_makeCloseTag('a'));
         }else{
-            $form->addElement('<img src="'.DOKU_BASE.'lib/images/blank.gif" width="15" height="11" alt="" />');
+            $form->addElement('<img src="'./*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/images/blank.gif" width="15" height="11" alt="" />');
             $form->addElement($display_name);
         }
 
@@ -1858,7 +1858,7 @@ function html_edit(){
 
     <div class="toolbar group">
         <div id="draft__status"><?php if(!empty($INFO['draft'])) echo $lang['draftdate'].' '.dformat();?></div>
-        <div id="tool__bar"><?php if ($wr && $data['media_manager']){?><a href="<?php echo DOKU_BASE?>lib/exe/mediamanager.php?ns=<?php echo $INFO['namespace']?>"
+        <div id="tool__bar"><?php if ($wr && $data['media_manager']){?><a href="<?php echo /*DOKU_BASE*/DOKU_INC?>lib/exe/mediamanager.php?ns=<?php echo $INFO['namespace']?>"
             target="_blank"><?php echo $lang['mediaselect'] ?></a><?php }?></div>
     </div>
     <?php

@@ -1,14 +1,3 @@
-1463387308	127.0.0.1	E	start		external edit	
-1463447790	::1	E	start			
-1463448648	127.0.0.1	E	start:child11		external edit	
-1463448699	::1	E	start:child11			
-1463449429	::1	E	start:child11		[定制DokuWiki] 	
-1463449471	::1	E	start:child11			
-1463449488	::1	E	start:child11			
-1463449556	::1	E	start:child11			
-1463449569	::1	E	start:child11			
-1463449582	::1	E	start:child11			
-1463449594	::1	E	start:child11			
 1463449605	::1	E	start:child11			
 1463449615	::1	E	start:child11			
 1463449627	::1	E	start:child11			
@@ -27,5 +16,10 @@
 1463471145	127.0.0.1	E	autodesign:什么是自动化测试框架		外部编辑	
 1463471201	::1	E	autodesign:什么是自动化测试框架			
 1463471984	::1	C	什么是自动化测试框架		创建	
-1463448348	127.0.0.1	E	start		外部编辑	
 1463993047	::1	E	start			
+1464068900	::1	E	autodesign:什么是自动化测试框架			
+1464159562	::1	D	autodesign:什么是自动化测试框架		移除	
+1464059471	127.0.0.1	E	autodesign:开源测试框架		外部编辑	
+1464159838	::1	D	autodesign:开源测试框架		移除	
+1464160249	::1	D	autodesign:什么是自动化测试框架		移除	
+1464160315	::1	D	autodesign:开源测试框架		移除	

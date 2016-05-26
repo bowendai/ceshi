@@ -453,10 +453,10 @@ function wl($id = '', $urlParameters = '', $absolute = false, $separator = '&amp
     if($absolute) {
         $xlink = DOKU_URL;
     } else {
-        $xlink = DOKU_BASE;
+        $xlink = /*DOKU_BASE*/DOKU_INC;
     }
 
-    if($conf['userewrite'] == 2) {
+    /*if($conf['userewrite'] == 2) {
         $xlink .= DOKU_SCRIPT.'/'.$id;
         if($urlParameters) $xlink .= '?'.$urlParameters;
     } elseif($conf['userewrite']) {
@@ -468,7 +468,28 @@ function wl($id = '', $urlParameters = '', $absolute = false, $separator = '&amp
     } else {
         $xlink .= DOKU_SCRIPT;
         if($urlParameters) $xlink .= '?'.$urlParameters;
+    }*/
+	
+	
+	/****daiwenbo modified****/
+	
+	$xlink = "";
+
+    if($conf['userewrite'] == 2) {
+        $xlink .='./'.$id;
+        if($urlParameters) $xlink .= '?'.$urlParameters;
+    } elseif($conf['userewrite']) {
+        $xlink .= $id;
+        if($urlParameters) $xlink .= '?'.$urlParameters;
+    } elseif($id) {
+        $xlink .= '?id='.$id;
+        if($urlParameters) $xlink .= $separator.$urlParameters;
+    } else {
+        $xlink .= "";
+        if($urlParameters) $xlink .= '?'.$urlParameters;
     }
+	
+	/***end***/
 
     return $xlink;
 }
@@ -499,7 +520,7 @@ function exportlink($id = '', $format = 'raw', $urlParameters = '', $abs = false
     if($abs) {
         $xlink = DOKU_URL;
     } else {
-        $xlink = DOKU_BASE;
+        $xlink = /*DOKU_BASE*/DOKU_INC;
     }
 
     if($conf['userewrite'] == 2) {

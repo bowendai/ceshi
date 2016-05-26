@@ -20,12 +20,13 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./Application/');
 
-if(!defined('DOKU_INC')) define('DOKU_INC', dirname(__FILE__).'/public/dokuwiki/');
+//if(!defined('DOKU_INC')) define('DOKU_INC', dirname(__FILE__).'/public/dokuwiki/');
+if(!defined('DOKU_INC')) define('DOKU_INC', './Public/dokuwiki/');
 
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
 
-require_once './Public/dokuwiki/doku.php';
+require_once DOKU_INC.'doku.php';
 
 //require_once DOKU_INC.'inc/template.php';
 

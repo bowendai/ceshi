@@ -1,0 +1,19 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1464160598;s:8:"modified";i:1463466200;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:14:"定制DokuWiki";s:8:"relation";a:2:{s:10:"references";a:8:{s:9:"zh:config";b:0;s:10:"zh:plugins";b:0;s:11:"zh:template";b:0;s:4:"tips";b:0;s:11:"start:start";b:0;s:16:"autodesign:start";b:0;s:11:"development";b:0;s:22:"teams:getting_involved";b:0;}s:10:"firstimage";s:0:"";}s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:15:"我们的社区";s:5:"title";s:15:"我们的社区";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:320:"----------
+
+À<dokuteaser>
+
+定制DokuWiki
+
+123
+我们支持各种层次上的定制。既可以从管理界面轻松配置，下载模板和扩展，也可以开发您自己的扩展。
+
+	*  配置
+	*  插件
+	*  模板 (或称 皮肤/主题)
+	*  技巧与诀窍
+	*  你好
+	*  你好
+
+阅读开发手册
+
+</dokuteaser>";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1464160598;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

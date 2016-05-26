@@ -18,7 +18,7 @@
 
 		<!-- fonts -->
 
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
+		<!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />-->
 
 		<!-- ace styles -->
 
@@ -45,6 +45,12 @@
 	</head>
 
 	<body>
+		
+		
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/all.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/feed.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/print.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/screen.css" />
 		
 		<div class="navbar navbar-default" id="navbar">
 			<script type="text/javascript">
@@ -528,10 +534,114 @@
 				
 			
 				<div class="main-content">
+						
+					<div class="breadcrumbs" id="breadcrumbs">
+						<script type="text/javascript">
+							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+						</script>
+
+						<ul class="breadcrumb">
+							<li>
+								<i class="icon-home home-icon"></i>
+								<li class="active">首页</li>
+								<!--<a href="#">首页</a>-->
+							</li>
+							<!--<li class="active">控制台</li>-->
+						</ul><!-- .breadcrumb -->
+
+						<div class="nav-search" id="nav-search">
+							<form class="form-search">
+								<span class="input-icon">
+									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+									<i class="icon-search nav-search-icon"></i>
+								</span>
+							</form>
+						</div><!-- #nav-search -->
+					</div>
 					
+					
+	   <div>
+		<link href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/jquery-ui-1.10.3.custom.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/chosen.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/datepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/bootstrap-timepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/daterangepicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/colorpicker.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-skins.min.css" />
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-extra.min.js"></script>
+		
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/typeahead-bs2.min.js"></script>
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/chosen.jquery.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/fuelux/fuelux.spinner.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/bootstrap-timepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/moment.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/date-time/daterangepicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-colorpicker.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.knob.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.autosize.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.inputlimiter.1.3.1.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/jquery.maskedinput.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/bootstrap-tag.min.js"></script>
+
+		<!-- ace scripts -->
+
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
+		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
+		
+		<script>
+			$("#sidebar").removeClass("menu-min");
+		</script>
+		
+			<div class="page-content">
+				
+					<?php
+ require_once './Public/dokuwiki/doku.php'; $ID=$id; act_dispatch(); ?>	
+					<div class="col-xs-12">
+						<!-- PAGE CONTENT BEGINS -->
+						<h2 class="header smaller lighter blue">
+							<?php echo ($detailinfoArr["title"]); ?>
+							&nbsp;<small>创建时间:<?php echo ($detailinfoArr["create_time"]); ?></small>
+						</h2>
+					</div><!-- /.col -->
+				
+				
+					<div class="col-xs-12">
+						<!--<div class="well">-->
+							<font size=+1><?php include(template('main.php')); ?></font>
+						<!--</div>-->
+					</div>
+				
+			
+			<a href="/thinkphp_3.2.3_core_extend/Home/autodesign/detail?id=<?php echo ($ID); ?>&do=edit"><?php echo ($detailinfoArr["title"]); ?>编辑</a>
+			<a href="/thinkphp_3.2.3_core_extend/Home/autodesign/detail?id=<?php echo ($ID); ?>&do=save">保存</a>
+			</div><!-- /.page-content -->
+				
+
+			
+
+			<!--<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+				<i class="icon-double-angle-up icon-only bigger-110"></i>
+			</a>-->
 	
-					
-		<?php  header("Location:/thinkphp_3.2.3_core_extend/Public/dokuwiki/doku.php?id=autodesign:".urlencode($detailinfoArr[0]["title"])); ?>
+		
+	</div>
 	
 			
 			</div><!-- /.main-container-inner -->
@@ -545,7 +655,7 @@
 
 		<!--[if !IE]> -->
 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
 
 		<!-- <![endif]-->
 
@@ -598,7 +708,7 @@
 		<script type="text/javascript">
 			jQuery(function($) {
 				
-				$("#sidebar").removeClass("menu-min");
+				//$("#sidebar").removeClass("menu-min");
 				
 				
 				/**菜单点击效果**/

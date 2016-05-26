@@ -18,7 +18,7 @@
 
 		<!-- fonts -->
 
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
+		<!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />-->
 
 		<!-- ace styles -->
 
@@ -45,6 +45,12 @@
 	</head>
 
 	<body>
+		
+		
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/all.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/feed.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/print.css" />
+		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/styles/screen.css" />
 		
 		<div class="navbar navbar-default" id="navbar">
 			<script type="text/javascript">
@@ -528,8 +534,31 @@
 				
 			
 				<div class="main-content">
+						
+					<div class="breadcrumbs" id="breadcrumbs">
+						<script type="text/javascript">
+							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+						</script>
+
+						<ul class="breadcrumb">
+							<li>
+								<i class="icon-home home-icon"></i>
+								<li class="active">首页</li>
+								<!--<a href="#">首页</a>-->
+							</li>
+							<!--<li class="active">控制台</li>-->
+						</ul><!-- .breadcrumb -->
+
+						<div class="nav-search" id="nav-search">
+							<form class="form-search">
+								<span class="input-icon">
+									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+									<i class="icon-search nav-search-icon"></i>
+								</span>
+							</form>
+						</div><!-- #nav-search -->
+					</div>
 					
-	
 					
 	
 	<div>
@@ -546,18 +575,6 @@
 		<link rel="stylesheet" href="/thinkphp_3.2.3_core_extend/Public/assets/css/ace-skins.min.css" />
 
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-extra.min.js"></script>
-			<div class="page-content">
-				<div class="col-xs-6">
-					<!--<div class="col-sm-3">
-						<h2>welcome</h2>
-					</div>-->
-					
-					<?php
- require_once './Public/dokuwiki/doku.php'; act_dispatch(); ?>
-					
-				</div>
-			</div>
-	
 		
 		<script type="text/javascript">
 			window.jQuery || document.write("<script src='/thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
@@ -588,10 +605,39 @@
 
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace-elements.min.js"></script>
 		<script src="/thinkphp_3.2.3_core_extend/Public/assets/js/ace.min.js"></script>
+	
 		
 		<script>
-			
+			$("#sidebar").removeClass("menu-min");
 		</script>
+		
+		
+			<div class="page-content">
+				<?php
+ require_once './Public/dokuwiki/doku.php'; act_dispatch(); global $ID; for($i = 0; $i < count($autoinfoArr); $i++){ $ID="autodesign:".$autoinfoArr[$i]["title"]; ?>	
+					<!--<div class="row">-->
+						<div class="col-xs-12">
+							<!--<div class="col-sm-3">
+								<h2>welcome</h2>
+							</div>-->
+							<h2 class="header smaller lighter blue">
+								<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=<?php echo ($ID); ?>"><?php echo ($autoinfoArr[$i]["title"]); ?></a>
+								&nbsp;<small>创建时间:<?php echo ($autoinfoArr[$i]["create_time"]); ?></small>
+							</h2>
+						</div>
+					<!--</div>
+					<div class="row">-->
+						<div class="col-xs-12">
+							<!--<div class="well">-->
+								<font size=+1><?php include(template('thumbnail.php')); ?></font>
+							<!--</div>-->
+						</div>
+					<!--</div>-->
+				<?php }?>
+			</div>
+	
+		
+
 	</div>
 	
 			
@@ -606,7 +652,7 @@
 
 		<!--[if !IE]> -->
 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
 
 		<!-- <![endif]-->
 
@@ -659,7 +705,7 @@
 		<script type="text/javascript">
 			jQuery(function($) {
 				
-				$("#sidebar").removeClass("menu-min");
+				//$("#sidebar").removeClass("menu-min");
 				
 				
 				/**菜单点击效果**/

@@ -196,7 +196,7 @@ function act_dispatch(){
 //var_dump($ACT);
 //var_dump($ID);
 //var_dump($INPUT);
-    include(template('main.php'));
+    //include(template('main.php'));
     // output for the commands is now handled in inc/templates.php
     // in function tpl_content()
 }

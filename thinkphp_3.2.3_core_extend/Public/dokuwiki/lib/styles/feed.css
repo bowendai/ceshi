@@ -30,7 +30,7 @@ channel title, feed title {
 }
 
 :root:before {
-  content: "This data file is meant to be read in a XML feed reader. See document source."
+  //content: "This data file is meant to be read in a XML feed reader. See document source."
 }
 
 item, entry {

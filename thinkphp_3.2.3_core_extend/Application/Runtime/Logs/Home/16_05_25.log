@@ -1,0 +1,938 @@
+[ 2016-05-25T17:42:12+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:42:52+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-25T17:42:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:42:58+08:00 ] ::1 /thinkphp_3.2.3_core_extend/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:43:01+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:43:03+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:44:01+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:44:02+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:44:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:44:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-25T17:47:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:48:09+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-25T17:48:12+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:48:17+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:48:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:48:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:48:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:48:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-25T17:49:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:49:27+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/news/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] ini_set(): Cannot change zlib.output_compression - headers already sent D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 130 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php:95) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 549 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+
+[ 2016-05-25T17:49:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tp_main` WHERE ( parentid=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 12 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\thumbnail.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-25T17:49:32+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\main.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\main.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-05-25T17:49:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tp_main` [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 159 行.
+NOTIC: [8192] Function set_magic_quotes_runtime() is deprecated D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\init.php 第 177 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\auth.php 第 535 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\main.php 第 17 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/tpl/dokuwiki/style.ini D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php 第 306 行.
+NOTIC: [2] filemtime(): stat failed for ./Public/dokuwiki/conf/local.protected.php D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 84 行.
+NOTIC: [2] filemtime(): stat failed for D:/ceshi/htdocs/thinkphp_3.2.3_core_extend/Public/dokuwiki/data/meta/.meta D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\cache.php 第 244 行.
+NOTIC: [8] Undefined index: REMOTE_USER D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\html.php 第 1902 行.
+NOTIC: [8] Undefined variable: lang D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\lib\tpl\dokuwiki\main.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\Public\dokuwiki\inc\template.php:1820) D:\ceshi\htdocs\thinkphp_3.2.3_core_extend\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

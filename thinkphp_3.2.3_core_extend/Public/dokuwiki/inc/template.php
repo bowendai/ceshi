@@ -300,6 +300,8 @@ function tpl_metaheaders($alt = true) {
     // prepare seed for js and css
     $tseed   = $updateVersion;
     $depends = getConfigFiles('main');
+	
+
     $depends[] = DOKU_CONF."tpl/".$conf['template']."/style.ini";
     foreach($depends as $f) $tseed .= @filemtime($f);
     $tseed   = md5($tseed);
@@ -308,9 +310,9 @@ function tpl_metaheaders($alt = true) {
     $head['meta'][] = array('name'=> 'generator', 'content'=> 'DokuWiki');
     $head['link'][] = array(
         'rel' => 'search', 'type'=> 'application/opensearchdescription+xml',
-        'href'=> DOKU_BASE.'lib/exe/opensearch.php', 'title'=> $conf['title']
+        'href'=> /*DOKU_BASE*/DOKU_INC.'lib/exe/opensearch.php', 'title'=> $conf['title']
     );
-    $head['link'][] = array('rel'=> 'start', 'href'=> DOKU_BASE);
+    $head['link'][] = array('rel'=> 'start', 'href'=> /*DOKU_BASE*/DOKU_INC);
     if(actionOK('index')) {
         $head['link'][] = array(
             'rel'  => 'contents', 'href'=> wl($ID, 'do=index', false, '&'),
@@ -322,12 +324,12 @@ function tpl_metaheaders($alt = true) {
         if(actionOK('rss')) {
             $head['link'][] = array(
                 'rel'  => 'alternate', 'type'=> 'application/rss+xml',
-                'title'=> $lang['btn_recent'], 'href'=> DOKU_BASE.'feed.php'
+                'title'=> $lang['btn_recent'], 'href'=> /*DOKU_BASE*/DOKU_INC.'feed.php'
             );
             $head['link'][] = array(
                 'rel'  => 'alternate', 'type'=> 'application/rss+xml',
                 'title'=> $lang['currentns'],
-                'href' => DOKU_BASE.'feed.php?mode=list&ns='.$INFO['namespace']
+                'href' => /*DOKU_BASE*/DOKU_INC.'feed.php?mode=list&ns='.$INFO['namespace']
             );
         }
         if(($ACT == 'show' || $ACT == 'search') && $INFO['writable']) {
@@ -342,7 +344,7 @@ function tpl_metaheaders($alt = true) {
             $head['link'][] = array(
                 'rel'  => 'alternate', 'type'=> 'application/rss+xml',
                 'title'=> $lang['searchresult'],
-                'href' => DOKU_BASE.'feed.php?mode=search&q='.$QUERY
+                'href' => /*DOKU_BASE*/DOKU_INC.'feed.php?mode=search&q='.$QUERY
             );
         }
 
@@ -397,7 +399,7 @@ function tpl_metaheaders($alt = true) {
     // load stylesheets
     $head['link'][] = array(
         'rel' => 'stylesheet', 'type'=> 'text/css',
-        'href'=> DOKU_BASE.'lib/exe/css.php?t='.rawurlencode($conf['template']).'&tseed='.$tseed
+        'href'=> DOKU_DAI_DEFINE.'lib/exe/css.php?t='.rawurlencode($conf['template']).'&tseed='.$tseed
     );
 
     // make $INFO and other vars available to JavaScripts
@@ -412,7 +414,7 @@ function tpl_metaheaders($alt = true) {
     // load external javascript
     $head['script'][] = array(
         'type'=> 'text/javascript', 'charset'=> 'utf-8', '_data'=> '',
-        'src' => DOKU_BASE.'lib/exe/js.php'.'?t='.rawurlencode($conf['template']).'&tseed='.$tseed
+        'src' => DOKU_DAI_DEFINE.'lib/exe/js.php'.'?t='.rawurlencode($conf['template']).'&tseed='.$tseed
     );
 
     // trigger event here
@@ -601,6 +603,7 @@ function tpl_actionlink($type, $pre = '', $suf = '', $inner = '', $return = fals
                 'title="'.hsc($caption).$addTitle.'"', true
         );
     }
+	
     if($return) return $out;
     echo $out;
     return true;
@@ -1301,7 +1304,7 @@ function tpl_indexerWebBug() {
     global $ID;
 
     $p           = array();
-    $p['src']    = DOKU_BASE.'lib/exe/indexer.php?id='.rawurlencode($ID).
+    $p['src']    = /*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/exe/indexer.php?id='.rawurlencode($ID).
         '&'.time();
     $p['width']  = 2; //no more 1x1 px image because we live in times of ad blockers...
     $p['height'] = 1;

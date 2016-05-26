@@ -1,0 +1,408 @@
+[ 2016-05-24T08:18:41+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T08:20:58+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T08:22:26+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T10:04:35+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T10:45:52+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/dokuwiki/lib/scripts/page.1js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T10:53:02+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T11:12:01+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T12:55:39+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T13:03:01+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T13:46:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=start&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T14:29:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T14:43:54+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T14:44:23+08:00 ] ::1 /thinkphp_3.2.3_core_extend/public/dokuwikidoku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T14:45:51+08:00 ] ::1 /thinkphp_3.2.3_core_extend/public/dokuwikidoku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T14:45:52+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T14:53:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=autodesign:%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%26do%3Dedit&do=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T16:10:20+08:00 ] ::1 /thinkphp_3.2.3_core_extend/doku.php?id=playground:playground
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Doku
+
+[ 2016-05-24T16:16:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:17:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:24:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:24:37+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:26:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:26:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:28:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:28:21+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:29:12+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:29:13+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:30:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:30:05+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:30:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:30:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:34:43+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:34:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:36:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:36:07+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:49:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:49:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T16:49:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:14:09+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:14:10+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:15:49+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:22+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:45+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:47+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:50+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:34:52+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:41:52+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:42:31+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:42:58+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:43:24+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:43:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:43:30+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:43:34+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:28+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:36+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:38+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:40+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:44+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:45:55+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:46:29+08:00 ] ::1 /thinkphp_3.2.3_core_extend/Public/assets/js/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
