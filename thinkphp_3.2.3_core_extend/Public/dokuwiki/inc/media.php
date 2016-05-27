@@ -1777,7 +1777,7 @@ function media_uploadform($ns, $auth, $fullscreen = false){
     $params = array('id'      => 'dw__upload',
                     'enctype' => 'multipart/form-data');
     if (!$fullscreen) {
-        $params['action'] = DOKU_BASE.'lib/exe/mediamanager.php';
+        $params['action'] = /*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/exe/mediamanager.php';
     } else {
         $params['action'] = media_managerURL(array('tab_files' => 'files',
             'tab_details' => 'view'), '&');
@@ -1852,7 +1852,7 @@ function media_searchform($ns,$query='',$fullscreen=false){
     // The default HTML search form
     $params = array('id' => 'dw__mediasearch');
     if (!$fullscreen) {
-        $params['action'] = DOKU_BASE.'lib/exe/mediamanager.php';
+        $params['action'] = /*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/exe/mediamanager.php';
     } else {
         $params['action'] = media_managerURL(array(), '&');
     }
@@ -1933,7 +1933,7 @@ function media_nstree_item($item){
 
     $ret  = '';
     if (!($INPUT->str('do') == 'media'))
-    $ret .= '<a href="'.DOKU_BASE.'lib/exe/mediamanager.php?ns='.idfilter($item['id']).'" class="idx_dir">';
+    $ret .= '<a href="'./*DOKU_BASE*/DOKU_DAI_DEFINE.'lib/exe/mediamanager.php?ns='.idfilter($item['id']).'" class="idx_dir">';
     else $ret .= '<a href="'.media_managerURL(array('ns' => idfilter($item['id'], false), 'tab_files' => 'files'))
         .'" class="idx_dir">';
     $ret .= $item['label'];

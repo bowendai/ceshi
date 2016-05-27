@@ -73,4 +73,29 @@ class AutoDesignModel extends Model {
 		
 		return $detail;
 	}
+	
+	/**
+	 * Sanitize the action command
+	 *
+	 * @author Andreas Gohr <andi@splitbrain.org>
+	 *
+	 * @param array|string $act
+	 * @return string
+	 */
+	function act_clean($act){
+		// check if the action was given as array key
+		if(is_array($act)){
+			list($act) = array_keys($act);
+		}
+
+		//remove all bad chars
+		$act = strtolower($act);
+		$act = preg_replace('/[^1-9a-z_]+/','',$act);
+
+		if($act == 'export_html') $act = 'export_xhtml';
+		if($act == 'export_htmlbody') $act = 'export_xhtmlbody';
+
+		if($act === '') $act = 'show';
+		return $act;
+	}
 }

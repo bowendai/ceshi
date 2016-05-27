@@ -64,41 +64,38 @@
 		</script>
 		
 		
-			<div class="page-content">
-				<?php
+		<div class="page-content">
+			<?php
+			
+				require_once './Public/dokuwiki/doku.php';
+				//global $DAI; $DAI="123";
+				act_dispatch(); 
+				global $ID;
 				
-					require_once './Public/dokuwiki/doku.php';
-					//global $DAI; $DAI="123";
-					act_dispatch(); 
-					global $ID;
-					
-					for($i = 0; $i < count($autoinfoArr); $i++){
-					
-						$ID="autodesign:".$autoinfoArr[$i]["title"];
-				?>	
-					<!--<div class="row">-->
-						<div class="col-xs-12">
-							<!--<div class="col-sm-3">
-								<h2>welcome</h2>
-							</div>-->
-							<h2 class="header smaller lighter blue">
-								<a href="__ROOT__/index.php/Home/autodesign/detail?id={$ID}">{$autoinfoArr[$i].title}</a>
-								&nbsp;<small>创建时间:{$autoinfoArr[$i].create_time}</small>
-							</h2>
-						</div>
-					<!--</div>
-					<div class="row">-->
-						<div class="col-xs-12">
-							<!--<div class="well">-->
-								<font size=+1><?php include(template('thumbnail.php')); ?></font>
-							<!--</div>-->
-						</div>
-					<!--</div>-->
-				<?php }?>
-			</div>
-	
-		
-
+				for($i = 0; $i < count($autoinfoArr); $i++){
+				
+					$ID="autodesign:".$autoinfoArr[$i]["title"];
+			?>	
+				<!--<div class="row">-->
+					<div class="col-xs-12">
+						<!--<div class="col-sm-3">
+							<h2>welcome</h2>
+						</div>-->
+						<h2 class="header smaller lighter blue">
+							<a href="__ROOT__/index.php/Home/autodesign/detail?id={$ID}">{$autoinfoArr[$i].title}</a>
+							&nbsp;<small>创建时间:{$autoinfoArr[$i].create_time}</small>
+						</h2>
+					</div>
+				<!--</div>
+				<div class="row">-->
+					<div class="col-xs-12">
+						<!--<div class="well">-->
+							<font size=+1><?php include(template('thumbnail.php')); ?></font>
+						<!--</div>-->
+					</div>
+				<!--</div>-->
+			<?php }?>
+		</div>
 	</div>
 	</block>
 	

@@ -46,7 +46,7 @@ jQuery.fn.dw_qsearch = function (overrides) {
                     return;
                 }
                 dw_qsearch.curRequest = jQuery.post(
-                    DOKU_BASE + 'lib/exe/ajax.php',
+                    /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
                     {
                         call: 'qsearch',
                         q: encodeURI(value)

@@ -1,0 +1,72 @@
+[ 2016-05-26T10:39:02+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/fixme.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T10:39:02+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/icon_eek.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T10:39:02+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/delete.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T10:39:03+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/fixme.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T10:39:03+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/delete.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T10:39:03+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/icon_eek.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/delete.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/fixme.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/icon_eek.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/fixme.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/delete.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-05-26T11:42:42+08:00 ] ::1 /thinkphp_3.2.3_core_extend/lib/images/smileys/icon_eek.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lib
+

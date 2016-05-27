@@ -10,7 +10,7 @@ rss channel, feed, RDF {
 link, description, language, managingEditor, copyright, lastBuildDate, date,
 pubDate, generator, webMaster, ttl, docs, tagline, author, copyright,
 generator, content, created, issued, modified, subject, id, format, creator,
-category, image {
+category/*, image */{
   display: none;
 }
 

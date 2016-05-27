@@ -47,6 +47,24 @@ class AutoDesignController extends Controller {
 		$filename = explode(":",$id);
 		
 		$fileinfo = $AutoDesignModel->getDetailFileinfo(urlencode($filename[1].".txt"),$dir);
+	
+		$act = $AutoDesignModel->act_clean($_POST["do"]);
+		
+		$request = $_REQUEST['do'];
+		//file_put_contents('ceshi.txt','act is :'.$ACT.' --- do is:'. $_POST["do"].' ------ str is:'.$act.'---request is :'.$request.PHP_EOL, FILE_APPEND);
+				
+		require_once './Public/dokuwiki/doku.php';
+					
+		$ID=$id;//"autodesign:".$detailinfoArr["title"];
+				
+		if($request=="edit"){
+			$ACT = $request;
+		}
+		if($act != "show"){
+			$ACT = $act;
+		}
+		
+		act_dispatch();
 		
 		$this->assign('detailinfoArr',$fileinfo);
 		$this->assign('id',$id);

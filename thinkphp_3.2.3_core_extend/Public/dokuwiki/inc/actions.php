@@ -30,7 +30,12 @@ function act_dispatch(){
     // give plugins an opportunity to process the action
     $evt = new Doku_Event('ACTION_ACT_PREPROCESS',$ACT);
     if ($evt->advise_before()) {
-
+		
+		
+$str = json_encode($INPUT);
+//file_put_contents('ceshi.txt', $str.PHP_EOL, FILE_APPEND);
+	 //file_put_contents('ceshi.txt', $INPUT->post->str("id")."--".$INPUT->post->str("wikitext").PHP_EOL, FILE_APPEND);
+	
         //sanitize $ACT
         $ACT = act_validate($ACT);
 

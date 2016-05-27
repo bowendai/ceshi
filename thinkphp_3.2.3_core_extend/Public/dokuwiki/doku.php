@@ -26,10 +26,14 @@ if(isset($_SERVER['HTTP_X_DOKUWIKI_DO'])) {
     $ACT = 'index';
 } elseif(isset($_REQUEST['do'])) {
     $ACT = $_REQUEST['do'];
-} else {
+} elseif(isset($_POST['do'])){
+	$ACT = $_POST['do'];
+}else {
     $ACT = 'show';
 }
 
+//$str = json_encode($INPUT);
+//file_put_contents('ceshi.txt', $_POST["do"].PHP_EOL, FILE_APPEND);
 // load and initialize the core system
 require_once(DOKU_INC.'inc/init.php');
 

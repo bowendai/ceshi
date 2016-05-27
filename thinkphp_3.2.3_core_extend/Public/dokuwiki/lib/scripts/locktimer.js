@@ -91,7 +91,7 @@ var dw_locktimer = {
         }
 
         jQuery.post(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             params,
             dw_locktimer.refreshed,
             'html'

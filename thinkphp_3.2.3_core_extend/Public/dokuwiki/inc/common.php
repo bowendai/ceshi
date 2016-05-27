@@ -589,7 +589,7 @@ function ml($id = '', $more = '', $direct = true, $sep = '&amp;', $abs = false) 
     if($abs) {
         $xlink = DOKU_URL;
     } else {
-        $xlink = DOKU_BASE;
+        $xlink = /*DOKU_BASE*/DOKU_DAI_DEFINE;
     }
 
     // external URLs are always direct without rewriting

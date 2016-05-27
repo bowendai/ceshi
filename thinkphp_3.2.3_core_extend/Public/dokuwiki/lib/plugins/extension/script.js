@@ -61,7 +61,7 @@ jQuery(function(){
 
         // execute
         jQuery.get(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             {
                 call: 'plugin_extension',
                 ext:  extension,
@@ -98,7 +98,7 @@ jQuery(function(){
 
         $link.addClass('close');
         jQuery.get(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             {
                 call: 'plugin_extension',
                 ext: $link.data('extid'),

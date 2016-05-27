@@ -282,9 +282,9 @@ var dw_linkwiz = {
     autocomplete_exec: function(){
         var $res = jQuery(dw_linkwiz.result);
         dw_linkwiz.deselect();
-        $res.html('<img src="'+DOKU_BASE+'lib/images/throbber.gif" alt="" width="16" height="16" />')
+        $res.html('<img src="'+/*DOKU_BASE*/DOKU_DAI_DEFINE+'lib/images/throbber.gif" alt="" width="16" height="16" />')
             .load(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             {
                 call: 'linkwiz',
                 q: dw_linkwiz.$entry.val()

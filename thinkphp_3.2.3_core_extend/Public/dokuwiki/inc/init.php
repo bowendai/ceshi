@@ -101,7 +101,12 @@ if(!defined('DOKU_BASE')){
 }
 
 if(!defined('DOKU_DAI_DEFINE')){
-	define('DOKU_DAI_DEFINE',DOKU_REL."Public/dokuwiki/");
+	if(strpos(DOKU_REL,"Public/dokuwiki/")===false){
+		define('DOKU_DAI_DEFINE',DOKU_REL."Public/dokuwiki/");
+	}else{
+		define('DOKU_DAI_DEFINE',DOKU_REL);
+	}
+	
 }
 
 // define whitespace

@@ -612,7 +612,7 @@
 			<div class="page-content">
 				
 					<?php
- require_once './Public/dokuwiki/doku.php'; $ID=$id; act_dispatch(); ?>	
+ ?>	
 					<div class="col-xs-12">
 						<!-- PAGE CONTENT BEGINS -->
 						<h2 class="header smaller lighter blue">
@@ -628,9 +628,6 @@
 						<!--</div>-->
 					</div>
 				
-			
-			<a href="/thinkphp_3.2.3_core_extend/Home/autodesign/detail?id=<?php echo ($ID); ?>&do=edit"><?php echo ($detailinfoArr["title"]); ?>编辑</a>
-			<a href="/thinkphp_3.2.3_core_extend/Home/autodesign/detail?id=<?php echo ($ID); ?>&do=save">保存</a>
 			</div><!-- /.page-content -->
 				
 

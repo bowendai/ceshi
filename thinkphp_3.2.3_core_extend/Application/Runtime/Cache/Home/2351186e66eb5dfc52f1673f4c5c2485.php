@@ -612,32 +612,29 @@
 		</script>
 		
 		
-			<div class="page-content">
-				<?php
+		<div class="page-content">
+			<?php
  require_once './Public/dokuwiki/doku.php'; act_dispatch(); global $ID; for($i = 0; $i < count($autoinfoArr); $i++){ $ID="autodesign:".$autoinfoArr[$i]["title"]; ?>	
-					<!--<div class="row">-->
-						<div class="col-xs-12">
-							<!--<div class="col-sm-3">
-								<h2>welcome</h2>
-							</div>-->
-							<h2 class="header smaller lighter blue">
-								<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=<?php echo ($ID); ?>"><?php echo ($autoinfoArr[$i]["title"]); ?></a>
-								&nbsp;<small>创建时间:<?php echo ($autoinfoArr[$i]["create_time"]); ?></small>
-							</h2>
-						</div>
-					<!--</div>
-					<div class="row">-->
-						<div class="col-xs-12">
-							<!--<div class="well">-->
-								<font size=+1><?php include(template('thumbnail.php')); ?></font>
-							<!--</div>-->
-						</div>
-					<!--</div>-->
-				<?php }?>
-			</div>
-	
-		
-
+				<!--<div class="row">-->
+					<div class="col-xs-12">
+						<!--<div class="col-sm-3">
+							<h2>welcome</h2>
+						</div>-->
+						<h2 class="header smaller lighter blue">
+							<a href="/thinkphp_3.2.3_core_extend/index.php/Home/autodesign/detail?id=<?php echo ($ID); ?>"><?php echo ($autoinfoArr[$i]["title"]); ?></a>
+							&nbsp;<small>创建时间:<?php echo ($autoinfoArr[$i]["create_time"]); ?></small>
+						</h2>
+					</div>
+				<!--</div>
+				<div class="row">-->
+					<div class="col-xs-12">
+						<!--<div class="well">-->
+							<font size=+1><?php include(template('thumbnail.php')); ?></font>
+						<!--</div>-->
+					</div>
+				<!--</div>-->
+			<?php }?>
+		</div>
 	</div>
 	
 			

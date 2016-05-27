@@ -53,7 +53,7 @@ var dw_mediamanager = {
                            var $link = $clicky.parent().find('div.li a.idx_dir');
 
                            jQuery.post(
-                               DOKU_BASE + 'lib/exe/ajax.php',
+                               /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
                                $link[0].search.substr(1) + '&call=medians',
                                show_sublist,
                                'html'
@@ -62,7 +62,7 @@ var dw_mediamanager = {
 
                        toggle_display: function ($clicky, opening) {
                            $clicky.attr('src',
-                                        DOKU_BASE + 'lib/images/' +
+                                        /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/images/' +
                                         (opening ? 'minus' : 'plus') + '.gif');
                        }});
         $tree.delegate('a', 'click', dw_mediamanager.list);
@@ -184,7 +184,7 @@ var dw_mediamanager = {
                        .click(bind(dw_mediamanager.setOpt, opt.id));
 
                 $img = jQuery(document.createElement('img'))
-                       .attr('src', DOKU_BASE + 'lib/images/media_' +
+                       .attr('src', /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/images/media_' +
                                     opt.id + '_' + text + '.png');
 
                 $btn.append($img);
@@ -429,7 +429,7 @@ var dw_mediamanager = {
         var $container;
 
         jQuery.post(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             params,
             function (data) {
                 dw_mediamanager.$resizables().resizable('destroy');
@@ -460,7 +460,7 @@ var dw_mediamanager = {
         if ($container.length === 0) {
             $container = $content;
         }
-        $container.html('<img src="' + DOKU_BASE + 'lib/images/loading.gif" alt="..." class="load" />');
+        $container.html('<img src="' + /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/images/loading.gif" alt="..." class="load" />');
     },
 
     window_resize: function () {
@@ -585,7 +585,7 @@ var dw_mediamanager = {
 
         params = dw_mediamanager.form_params($select.closest('form'))+'&call=mediadiff';
         jQuery.post(
-            DOKU_BASE + 'lib/exe/ajax.php',
+            /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             params,
             function (data) {
                 $content.html(data);
@@ -683,7 +683,7 @@ var dw_mediamanager = {
 
         var uploader = new qq.FileUploaderExtended({
             element: document.getElementById('mediamanager__uploader'),
-            action: DOKU_BASE + 'lib/exe/ajax.php',
+            action: /*DOKU_BASE*/DOKU_DAI_DEFINE + 'lib/exe/ajax.php',
             params: params
         });
     },

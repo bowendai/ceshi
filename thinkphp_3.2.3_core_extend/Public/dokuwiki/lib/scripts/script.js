@@ -28,7 +28,7 @@ if (clientPC.indexOf('opera')!=-1) {
  */
 function showLoadBar(){
 
-  document.write('<img src="'+DOKU_BASE+'lib/images/loading.gif" '+
+  document.write('<img src="'+/*DOKU_BASE*/DOKU_DAI_DEFINE+'lib/images/loading.gif" '+
                  'width="150" height="12" alt="..." />');
 
   /* this does not work reliable in IE

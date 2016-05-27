@@ -197,11 +197,11 @@ function html_btn($name, $id, $akey, $params, $method='get', $tooltip='', $label
 
     //make nice URLs even for buttons
     if($conf['userewrite'] == 2){
-        $script = DOKU_BASE.DOKU_SCRIPT.'/'.$id;
+        $script = /*DOKU_BASE*/DOKU_DAI_DEFINE.DOKU_SCRIPT.'/'.$id;
     }elseif($conf['userewrite']){
-        $script = DOKU_BASE.$id;
+        $script = /*DOKU_BASE*/DOKU_DAI_DEFINE.$id;
     }else{
-        $script = DOKU_BASE.DOKU_SCRIPT;
+        $script = /*DOKU_BASE*/DOKU_DAI_DEFINE.DOKU_SCRIPT;
         $params['id'] = $id;
     }
 

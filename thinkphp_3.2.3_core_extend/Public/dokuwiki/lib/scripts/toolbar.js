@@ -152,7 +152,7 @@ function tb_insert(btn, props, edid) {
  */
 function tb_mediapopup(btn, props, edid) {
     window.open(
-        DOKU_BASE+props.url+encodeURIComponent(NS)+'&edid='+encodeURIComponent(edid),
+        /*DOKU_BASE*/DOKU_DAI_DEFINE+props.url+encodeURIComponent(NS)+'&edid='+encodeURIComponent(edid),
         props.name,
         props.options);
     return false;
